@@ -19,6 +19,7 @@
     <li>Axolotyls, which are Mexican salamanders are the cutest sea creatures!</li>
     <li>Drawig is a huge hobby of mine, though I don't plan on pursuing a career using that skill.</li>
     <li>My favorite genres of music are RnB, Rock, Disco and Funk.</li>
+    <li>I have 3 brothers and 2 sisters.</li>
   </ul>
  </head>
 </body>
