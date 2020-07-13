@@ -16,6 +16,9 @@
   <ul>
     <li>My birthday is on January 15th.</li>
     <li>My favorite color is blue and lavender</li>
+    <li>Axolotyls, which are Mexican salamanders are the cutest sea creatures!</li>
+    <li>Drawig is a huge hobby of mine, though I don't plan on pursuing a career using that skill.</li>
+    <li>My favorite genres of music are RnB, Rock, Disco and Funk.</li>
   </ul>
  </head>
 </body>
